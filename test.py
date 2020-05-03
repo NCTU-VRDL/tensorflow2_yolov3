@@ -31,9 +31,9 @@ if os.path.exists(predicted_dir_path): shutil.rmtree(predicted_dir_path)
 if os.path.exists(ground_truth_dir_path): shutil.rmtree(ground_truth_dir_path)
 if os.path.exists(cfg.TEST.DECTECTED_IMAGE_PATH): shutil.rmtree(cfg.TEST.DECTECTED_IMAGE_PATH)
 
-os.mkdir(predicted_dir_path)
-os.mkdir(ground_truth_dir_path)
-os.mkdir(cfg.TEST.DECTECTED_IMAGE_PATH)
+os.mkdirs(predicted_dir_path)
+os.mkdirs(ground_truth_dir_path)
+os.mkdirs(cfg.TEST.DECTECTED_IMAGE_PATH)
 
 # Build Model
 input_layer  = tf.keras.layers.Input([INPUT_SIZE, INPUT_SIZE, 3])
@@ -45,7 +45,7 @@ for i, fm in enumerate(feature_maps):
     bbox_tensors.append(bbox_tensor)
 
 model = tf.keras.Model(input_layer, bbox_tensors)
-model.load_weights("./yolov3")
+model.load_weights("./data/log/yolov3_tf")
 
 with open(cfg.TEST.ANNOT_PATH, 'r') as annotation_file:
     for num, line in enumerate(annotation_file):
