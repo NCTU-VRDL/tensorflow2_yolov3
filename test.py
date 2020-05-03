@@ -25,8 +25,8 @@ INPUT_SIZE   = 416
 NUM_CLASS    = len(utils.read_class_names(cfg.YOLO.CLASSES))
 CLASSES      = utils.read_class_names(cfg.YOLO.CLASSES)
 
-predicted_dir_path = '../mAP/predicted'
-ground_truth_dir_path = '../mAP/ground-truth'
+predicted_dir_path = 'mAP/predicted'
+ground_truth_dir_path = 'mAP/ground-truth'
 if os.path.exists(predicted_dir_path): shutil.rmtree(predicted_dir_path)
 if os.path.exists(ground_truth_dir_path): shutil.rmtree(ground_truth_dir_path)
 if os.path.exists(cfg.TEST.DECTECTED_IMAGE_PATH): shutil.rmtree(cfg.TEST.DECTECTED_IMAGE_PATH)
