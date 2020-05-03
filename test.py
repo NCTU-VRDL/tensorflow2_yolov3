@@ -31,9 +31,9 @@ if os.path.exists(predicted_dir_path): shutil.rmtree(predicted_dir_path)
 if os.path.exists(ground_truth_dir_path): shutil.rmtree(ground_truth_dir_path)
 if os.path.exists(cfg.TEST.DECTECTED_IMAGE_PATH): shutil.rmtree(cfg.TEST.DECTECTED_IMAGE_PATH)
 
-os.mkdirs(predicted_dir_path)
-os.mkdirs(ground_truth_dir_path)
-os.mkdirs(cfg.TEST.DECTECTED_IMAGE_PATH)
+os.makedirs(predicted_dir_path)
+os.makedirs(ground_truth_dir_path)
+os.makedirs(cfg.TEST.DECTECTED_IMAGE_PATH)
 
 # Build Model
 input_layer  = tf.keras.layers.Input([INPUT_SIZE, INPUT_SIZE, 3])
