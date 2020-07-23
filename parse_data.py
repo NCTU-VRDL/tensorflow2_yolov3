@@ -1,8 +1,10 @@
+import os
+import json
 import glob
 
 cls_dict = {"rectangle":0,
-       "circle":1,
-       "triangle":2,}
+            "circle":1,
+            "triangle":2,}
 
 train_path = [os.path.abspath(x) for x in sorted(glob.glob("./data/dataset/train/*.png"))]
 with open("data/dataset/train/labels.json") as f:
