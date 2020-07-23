@@ -34,13 +34,12 @@ __C.TRAIN                     = edict()
 
 __C.TRAIN.ANNOT_PATH          = "./data/dataset/yymnist_train.txt"
 __C.TRAIN.BATCH_SIZE          = 4
-# __C.TRAIN.INPUT_SIZE            = [320, 352, 384, 416, 448, 480, 512, 544, 576, 608]
 __C.TRAIN.INPUT_SIZE          = [416]
 __C.TRAIN.DATA_AUG            = True
 __C.TRAIN.LR_INIT             = 1e-3
 __C.TRAIN.LR_END              = 1e-6
 __C.TRAIN.WARMUP_EPOCHS       = 2
-__C.TRAIN.EPOCHS              = 30
+__C.TRAIN.EPOCHS              = 5
 
 
 
