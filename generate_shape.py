@@ -282,7 +282,7 @@ def parse():
         '-o', '--output-dir', help='The output directory where to save images')
     parser.add_argument(
         '--allow-overlap',
-        action='store_true',
+        action='store_false',
         help='Allow shapes to overlap on images')
 
     return parser.parse_args()
