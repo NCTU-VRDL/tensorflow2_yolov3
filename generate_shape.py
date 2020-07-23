@@ -203,13 +203,14 @@ def save_images_and_labels(output_directory, images, labels):
         assert os.path.isdir(output_directory)
     else:
         os.makedirs(output_directory)
-    print('Saving to {0} ...'.format(os.path.abspath(output_directory)))
+    print('Saving data to {0} ...'.format(os.path.abspath(output_directory)))
     numbers = []
     for number, image in enumerate(images):
         path = os.path.join(output_directory, '{0}.png'.format(number))
         imageio.imwrite(path,image)
         numbers.append('{0}.png'.format(number))
     labels_file_path = os.path.join(output_directory, 'labels.json')
+    print('Saving label to {0} ...'.format(labels_file_path))
     with open(labels_file_path, 'w') as labels_file:
         new_labels = []
         for image_labels in labels:
