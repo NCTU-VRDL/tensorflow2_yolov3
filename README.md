@@ -55,25 +55,3 @@ $ python test.py
 $ cd ../mAP
 $ python main.py        # Detection images are expected to save in `YOLOV3/data/detection`
 ```
-Track training progress in Tensorboard and go to http://localhost:6006/
-
-```
-$ tensorboard --logdir ./data/log
-```
-<p align="center">
-    <img width="100%" src="https://user-images.githubusercontent.com/30433053/68088727-db5a6b00-fe9c-11e9-91d6-555b1089b450.png" style="max-width:100%;">
-    </a>
-</p>
-
-## Citation
---------------------
-```
-@Github_Project{TensorFlow2.0-Examples,
-  author       = YunYang1994,
-  email        = www.dreameryangyun@sjtu.edu.cn,
-  title        = "YOLOv3: An Incremental Improvement",
-  url          = https://github.com/YunYang1994/TensorFlow2.0-Examples,
-  year         = 2019,
-}
-```
-
