@@ -50,7 +50,6 @@ Finally, you can train it and then evaluate your model
 
 ```
 $ python train.py
-$ tensorboard --logdir ./data/log
 $ python test.py
 $ cd ../mAP
 $ python main.py        # Detection images are expected to save in `YOLOV3/data/detection`
