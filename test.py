@@ -45,7 +45,7 @@ for i, fm in enumerate(feature_maps):
     bbox_tensors.append(bbox_tensor)
 
 model = tf.keras.Model(input_layer, bbox_tensors)
-model.load_weights("./data/log/yolov3_tf")
+model.load_weights("./yolov3")
 
 with open(cfg.TEST.ANNOT_PATH, 'r') as annotation_file:
     for num, line in enumerate(annotation_file):
