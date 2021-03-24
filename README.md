@@ -51,6 +51,4 @@ Finally, you can train it and then evaluate your model
 ```
 $ python3 train.py
 $ python3 test.py
-$ cd ./mAP
-$ python3 main.py        # Detection images are expected to save in `YOLOV3/data/detection`
 ```
