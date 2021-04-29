@@ -53,5 +53,6 @@ __C.YOLO.CLASSES                = "./data/classes/yymnist.names"
 
 ```
 $ python3 train.py
-$ python3 test.py
+$ python3 test.py # Inference on the test-set
+$ python3 mAP.py # Compute the mAP on test-set (run test.py first)
 ```
