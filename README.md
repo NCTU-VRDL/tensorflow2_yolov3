@@ -25,6 +25,7 @@ python pascal_voc.py -t 0.3
 In this part, we will use pretrained weights to make predictions on both image and video.
 
 ```
+$ cd ..
 $ python3 image_demo.py
 ```
 
@@ -33,7 +34,7 @@ $ python3 image_demo.py
     </a>
 </p>
 
-## Exercise2: YOLO-V3 training to detect digits
+## Exercise3: YOLO-V3 training to detect digits
 --------------------
 
 <p align="center">
