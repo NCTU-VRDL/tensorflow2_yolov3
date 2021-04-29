@@ -11,7 +11,16 @@ $ pip3 install -r ./docs/requirements.txt
 $ wget https://pjreddie.com/media/files/yolov3.weights
 ```
 
-## Quick start
+
+## Exercise1: Evaluation
+In this part, we will practice how to compute the average precision of our model.
+```
+cd exercise1
+python pascal_voc.py -t 0.3
+```
+
+
+## Exercise2: YOLO-V3 inference
 --------------------
 In this part, we will use pretrained weights to make predictions on both image and video.
 
@@ -24,7 +33,7 @@ $ python3 image_demo.py
     </a>
 </p>
 
-## Train yymnist
+## Exercise2: YOLO-V3 training to detect digits
 --------------------
 
 <p align="center">
@@ -34,19 +43,12 @@ $ python3 image_demo.py
 
 
 
-Download [yymnist](https://github.com/YunYang1994/yymnist) dataset and make data.
-
-```
-$ git clone https://github.com/YunYang1994/yymnist.git
-$ python3 yymnist/make_data.py --images_num 1000 --images_path ./data/dataset/train --labels_txt ./data/dataset/yymnist_train.txt
-$ python3 yymnist/make_data.py --images_num 200  --images_path ./data/dataset/test  --labels_txt ./data/dataset/yymnist_test.txt
-```
-Open `./core/config.py` and do some configurations
+- Open `./core/config.py` and do some configurations
 ```
 __C.YOLO.CLASSES                = "./data/classes/yymnist.names"
 ```
 
-Finally, you can train it and then evaluate your model
+- Finally, you can train it and then evaluate your model
 
 ```
 $ python3 train.py
