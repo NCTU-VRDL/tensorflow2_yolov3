@@ -22,10 +22,9 @@ python pascal_voc.py -t 0.3
 
 ## Exercise2: YOLO-V3 inference
 --------------------
-In this part, we will use pretrained weights to make predictions on both image and video.
+In this part, we will use pretrained weights to make predictions on both image and video. See [exercise_2_yolov3_inference.ipynb](https://github.com/NCTU-VRDL/tensorflow2_yolov3/blob/master/exercise_2_yolov3_inference.ipynb)
 
 ```
-$ cd ..
 $ python3 image_demo.py
 ```
 
@@ -36,6 +35,8 @@ $ python3 image_demo.py
 
 ## Exercise3: YOLO-V3 training to detect digits
 --------------------
+In this part, we will train the YOLO-V3 on the digits dataset and check the performance. See [exercise_3_yolov3_training.ipynb](https://github.com/NCTU-VRDL/tensorflow2_yolov3/blob/master/exercise_3_yolov3_training.ipynb)
+
 
 <p align="center">
     <img width="70%" src="https://user-images.githubusercontent.com/30433053/68088705-90d8ee80-fe9c-11e9-8e61-589fdc45fe60.png" style="max-width:70%;">
