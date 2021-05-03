@@ -1,200 +1,200 @@
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000001.jpg 277,55,319,97,9 195,373,237,415,1 147,5,203,61,8 157,64,213,120,4 55,325,111,381,7 79,161,163,245,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000002.jpg 227,106,339,218,4 56,61,168,173,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000003.jpg 55,364,77,386,2 169,145,197,173,3 321,305,349,333,7 1,31,57,87,8 225,243,267,285,5 33,238,61,266,3 85,97,141,153,1 122,215,206,299,1 275,29,359,113,3 330,157,414,241,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000004.jpg 311,122,333,144,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000005.jpg 56,98,70,112,6 240,222,282,264,0 327,309,369,351,1 2,168,30,196,0 270,10,312,52,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000006.jpg 120,245,232,357,7 2,11,114,123,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000007.jpg 161,389,175,403,0 82,139,166,223,2 196,309,280,393,3 211,172,323,284,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000008.jpg 303,226,345,268,7 107,241,149,283,6 162,114,246,198,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000009.jpg 216,379,230,393,2 293,149,405,261,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000010.jpg 117,238,131,252,6 394,368,408,382,6 32,138,60,166,9 204,28,246,70,2 149,31,191,73,3 143,164,171,192,9 37,276,93,332,1 106,290,190,374,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000011.jpg 285,7,307,29,7 233,50,255,72,5 363,344,377,358,1 306,164,334,192,2 366,196,408,238,1 263,357,291,385,5 70,127,182,239,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000012.jpg 255,227,283,255,2 184,64,212,92,9 140,221,182,263,4 206,80,318,192,0 13,24,125,136,0 165,322,249,406,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000013.jpg 228,42,242,56,9 282,151,296,165,1 269,88,297,116,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000014.jpg 295,205,337,247,9 333,145,375,187,8 279,331,307,359,8 28,69,112,153,0 4,240,88,324,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000015.jpg 72,215,94,237,2 195,152,217,174,0 139,47,195,103,7 350,178,406,234,3 116,162,158,204,8 239,226,295,282,7 10,345,38,373,9 242,93,326,177,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000016.jpg 130,334,152,356,8 269,144,283,158,2 179,26,235,82,9 97,34,125,62,2 235,81,291,137,6 188,136,244,192,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000017.jpg 147,89,161,103,2 27,145,55,173,7 307,153,349,195,8 130,48,158,76,7 257,245,369,357,0 209,34,293,118,2 135,137,247,249,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000018.jpg 394,143,408,157,9 199,13,221,35,1 183,80,211,108,3 102,180,158,236,4 54,13,166,125,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000019.jpg 63,260,119,316,7 317,335,373,391,5 125,218,153,246,5 255,110,311,166,6 196,309,238,351,1 150,142,262,254,0 80,80,164,164,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000020.jpg 388,200,402,214,0 7,240,29,262,2 163,227,177,241,7 341,226,397,282,7 308,352,350,394,4 55,297,83,325,7 250,153,334,237,8 88,268,172,352,1 23,27,107,111,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000021.jpg 6,71,62,127,7 161,0,217,56,1 70,153,98,181,1 261,169,289,197,9 232,104,288,160,7 249,266,305,322,9 111,125,195,209,1 284,14,396,126,3 5,299,117,411,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000022.jpg 17,230,39,252,2 266,202,350,286,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000023.jpg 264,109,278,123,3 329,207,351,229,8 128,4,184,60,6 101,184,157,240,7 348,39,390,81,1 193,51,221,79,3 351,331,393,373,4 166,170,250,254,3 84,66,196,178,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000024.jpg 314,206,328,220,8 41,258,97,314,9 279,145,307,173,8 168,28,280,140,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000025.jpg 240,21,254,35,7 359,357,373,371,2 227,99,283,155,9 197,314,253,370,1 76,280,104,308,2 229,233,285,289,7 284,86,326,128,8 168,200,196,228,8 301,234,385,318,9 117,13,229,125,9 1,136,113,248,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000026.jpg 292,155,306,169,9 313,397,327,411,8 90,48,104,62,3 87,195,143,251,7 292,170,348,226,4 152,72,208,128,5 239,49,267,77,1 294,26,322,54,0 157,287,241,371,1 153,174,237,258,6 301,60,385,144,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000027.jpg 57,102,79,124,4 249,247,263,261,8 365,312,387,334,9 12,188,68,244,3 147,246,203,302,5 282,281,310,309,3 29,252,85,308,9 104,127,216,239,6 220,107,332,219,1 36,0,148,112,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000028.jpg 276,185,290,199,7 214,300,242,328,2 199,245,241,287,1 223,114,279,170,9 276,26,388,138,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000029.jpg 66,231,88,253,6 270,26,382,138,8 95,299,207,411,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000030.jpg 65,208,107,250,9 161,50,217,106,9 237,22,265,50,1 112,239,154,281,5 330,300,386,356,6 235,114,347,226,4 43,286,155,398,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000031.jpg 181,375,203,397,7 100,62,114,76,0 211,53,253,95,0 144,256,172,284,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000032.jpg 284,23,340,79,0 312,250,354,292,6 268,343,296,371,1 217,98,259,140,4 353,18,409,74,4 54,188,166,300,2 201,165,313,277,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000033.jpg 293,370,315,392,8 247,20,269,42,9 13,10,41,38,7 4,295,32,323,5 188,122,216,150,6 42,258,84,300,9 98,274,182,358,1 77,161,189,273,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000034.jpg 346,177,360,191,8 81,198,103,220,8 67,337,109,379,4 290,55,332,97,5 192,241,248,297,2 262,99,346,183,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000035.jpg 186,8,200,22,4 205,344,261,400,3 184,288,212,316,7 285,226,341,282,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000036.jpg 222,385,236,399,7 134,183,246,295,1 0,331,84,415,5 119,3,231,115,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000037.jpg 66,126,80,140,4 30,107,44,121,4 216,268,230,282,1 8,10,36,38,1 323,64,365,106,3 329,123,371,165,6 276,295,304,323,6 339,350,395,406,8 16,64,58,106,5 163,152,247,236,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000038.jpg 343,130,357,144,7 281,110,295,124,9 126,118,210,202,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000039.jpg 124,166,146,188,5 79,15,101,37,8 153,220,167,234,9 57,59,99,101,2 190,113,302,225,3 127,275,211,359,3 245,278,357,390,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000040.jpg 317,97,339,119,2 245,43,267,65,0 109,159,151,201,8 244,221,286,263,6 222,289,264,331,3 320,315,362,357,9 153,18,237,102,7 89,261,201,373,0 1,147,113,259,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000041.jpg 242,367,264,389,6 42,230,64,252,7 140,64,168,92,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000042.jpg 52,59,74,81,1 218,47,240,69,7 131,196,145,210,4 311,1,367,57,2 258,187,286,215,2 318,103,346,131,7 239,121,267,149,2 131,319,215,403,3 94,39,178,123,2 233,261,317,345,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000043.jpg 243,3,265,25,9 139,301,195,357,5 280,250,336,306,1 80,236,136,292,6 132,125,216,209,0 2,89,114,201,6 248,117,360,229,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000044.jpg 172,139,194,161,6 102,275,116,289,3 128,196,150,218,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000045.jpg 343,317,399,373,3 206,144,234,172,1 273,38,315,80,6 219,266,275,322,4 341,230,383,272,3 119,243,203,327,1 15,128,127,240,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000046.jpg 307,1,321,15,4 228,345,284,401,9 3,266,59,322,8 64,45,106,87,1 155,32,239,116,8 150,129,262,241,9 9,113,93,197,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000047.jpg 49,213,63,227,1 153,117,181,145,0 167,204,209,246,0 38,271,66,299,4 63,274,175,386,5 53,165,165,277,5 76,37,160,121,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000048.jpg 326,291,340,305,2 110,249,124,263,3 254,53,310,109,1 36,120,64,148,5 250,125,306,181,7 282,283,394,395,4 2,0,114,112,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000049.jpg 309,309,331,331,3 41,63,69,91,2 102,192,144,234,2 130,230,242,342,1 168,142,252,226,0 295,189,379,273,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000050.jpg 269,209,283,223,0 151,43,173,65,1 212,168,234,190,7 34,48,62,76,4 293,276,335,318,8 163,119,219,175,4 35,175,91,231,0 3,290,59,346,2 173,184,285,296,2 259,44,371,156,7 78,95,162,179,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000051.jpg 207,189,229,211,2 309,2,365,58,6 186,252,242,308,7 83,48,139,104,9 29,192,71,234,5 82,123,110,151,7 151,317,179,345,5 251,65,335,149,9 108,169,192,253,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000052.jpg 124,154,138,168,9 141,240,163,262,4 316,81,358,123,2 329,127,371,169,4 236,268,348,380,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000053.jpg 297,339,319,361,1 173,44,229,100,9 364,276,406,318,7 358,61,400,103,8 110,64,166,120,7 120,127,162,169,6 86,190,198,302,4 145,302,229,386,6 258,18,342,102,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000054.jpg 357,189,379,211,3 205,345,219,359,2 134,98,176,140,1 51,273,79,301,1 27,29,55,57,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000055.jpg 306,49,328,71,0 386,59,408,81,0 144,61,200,117,0 20,245,104,329,0 290,134,374,218,0 108,161,220,273,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000056.jpg 149,40,233,124,4 234,327,318,411,9 25,269,109,353,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000057.jpg 170,80,184,94,6 109,32,137,60,2 28,11,56,39,8 347,191,389,233,8 253,192,295,234,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000058.jpg 268,128,282,142,7 310,159,366,215,6 387,168,415,196,1 52,285,94,327,2 54,123,166,235,6 150,256,262,368,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000059.jpg 140,241,154,255,6 175,64,197,86,0 22,252,36,266,7 309,139,351,181,9 90,186,146,242,5 181,345,209,373,8 347,61,389,103,6 38,293,66,321,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000060.jpg 19,270,33,284,5 207,129,235,157,4 112,52,154,94,2 171,262,255,346,0 311,166,395,250,9 60,190,144,274,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000061.jpg 41,77,83,119,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000062.jpg 384,202,412,230,8 168,197,196,225,4 304,111,346,153,3 60,6,102,48,8 341,270,397,326,5 198,258,310,370,8 185,73,297,185,6 85,38,169,122,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000063.jpg 371,79,385,93,3 337,144,365,172,6 256,29,284,57,3 335,311,391,367,2 134,275,162,303,7 140,172,196,228,4 34,175,90,231,5 81,72,165,156,7 231,195,343,307,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000064.jpg 87,106,109,128,4 366,130,394,158,1 58,183,100,225,6 228,314,312,398,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000065.jpg 154,117,182,145,1 194,259,278,343,3 109,181,193,265,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000066.jpg 68,235,90,257,0 152,9,166,23,7 238,151,294,207,5 102,0,214,112,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000067.jpg 239,167,295,223,8 56,125,112,181,1 301,314,357,370,3 155,275,183,303,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000068.jpg 170,221,212,263,9 100,254,142,296,9 362,194,390,222,3 329,281,357,309,7 158,281,200,323,8 355,305,397,347,1 199,126,311,238,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000069.jpg 278,20,300,42,1 78,367,100,389,9 11,363,33,385,7 42,306,84,348,7 255,150,283,178,4 290,320,346,376,9 125,95,209,179,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000070.jpg 109,0,131,22,6 215,177,257,219,7 204,91,246,133,3 283,302,325,344,9 250,85,306,141,3 114,219,142,247,6 0,173,56,229,2 302,107,414,219,6 331,246,415,330,2 12,272,124,384,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000071.jpg 208,70,230,92,1 118,130,140,152,7 357,321,399,363,7 188,191,230,233,2 243,68,271,96,8 248,368,276,396,8 306,332,334,360,7 26,36,68,78,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000072.jpg 1,207,15,221,5 87,202,109,224,7 125,189,153,217,8 214,268,270,324,7 251,80,363,192,9 83,37,195,149,9 177,188,261,272,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000073.jpg 307,305,329,327,0 100,123,142,165,6 179,296,207,324,5 60,210,116,266,1 258,199,342,283,7 19,287,131,399,0 131,203,215,287,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000074.jpg 288,148,310,170,7 271,279,285,293,6 325,357,381,413,3 176,314,218,356,5 24,72,80,128,1 71,187,113,229,1 156,92,212,148,6 42,273,98,329,6 183,144,295,256,4 211,45,295,129,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000075.jpg 328,356,356,384,2 121,11,177,67,7 82,218,124,260,0 323,128,379,184,2 72,122,128,178,3 176,73,288,185,4 235,253,347,365,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000076.jpg 208,98,264,154,8 195,183,307,295,6 38,66,122,150,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000077.jpg 274,115,330,171,6 77,374,105,402,3 76,188,132,244,7 247,67,275,95,3 82,98,124,140,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000078.jpg 329,10,343,24,1 221,247,243,269,5 379,186,401,208,1 100,89,128,117,6 297,368,339,410,2 249,209,361,321,7 18,306,102,390,3 101,187,213,299,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000079.jpg 295,211,317,233,4 64,334,120,390,8 135,49,163,77,9 160,255,188,283,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000080.jpg 188,85,230,127,4 239,288,281,330,8 247,6,289,48,7 336,69,378,111,1 149,114,191,156,2 269,145,297,173,1 292,185,404,297,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000081.jpg 13,102,27,116,6 388,351,410,373,2 59,257,73,271,9 118,312,146,340,7 336,210,378,252,8 249,150,305,206,1 55,208,97,250,9 214,35,326,147,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000082.jpg 150,359,172,381,8 364,127,386,149,1 231,389,245,403,4 232,298,274,340,5 302,216,330,244,4 77,154,105,182,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000083.jpg 65,346,79,360,8 378,114,392,128,4 203,335,259,391,2 102,28,130,56,0 110,240,166,296,6 220,38,276,94,0 250,154,362,266,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000084.jpg 177,290,199,312,6 157,30,213,86,9 321,175,349,203,7 237,189,265,217,9 37,207,65,235,1 73,116,129,172,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000085.jpg 301,384,323,406,0 266,40,288,62,4 56,159,70,173,7 158,36,242,120,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000086.jpg 228,16,242,30,5 188,117,216,145,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000087.jpg 46,100,60,114,6 342,213,364,235,1 3,114,31,142,6 7,360,35,388,5 213,111,255,153,7 183,298,225,340,3 314,306,370,362,9 120,79,204,163,7 217,16,301,100,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000088.jpg 263,140,277,154,2 180,56,202,78,9 157,380,171,394,1 384,217,412,245,9 20,6,104,90,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000089.jpg 164,223,186,245,6 254,25,296,67,1 11,144,53,186,7 336,348,392,404,4 157,296,199,338,7 38,16,122,100,6 223,281,335,393,0 30,184,142,296,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000090.jpg 62,201,76,215,7 321,186,335,200,9 257,352,313,408,3 162,119,246,203,9 71,237,183,349,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000091.jpg 98,339,120,361,0 88,361,102,375,1 33,380,47,394,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000092.jpg 247,348,261,362,4 0,302,14,316,5 180,337,194,351,0 248,39,304,95,1 108,107,220,219,6 225,252,337,364,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000093.jpg 322,242,336,256,5 190,280,218,308,7 226,98,310,182,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000094.jpg 58,379,86,407,8 249,111,277,139,4 225,353,253,381,2 310,316,352,358,2 106,339,162,395,3 164,90,248,174,2 198,227,282,311,6 301,119,385,203,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000095.jpg 305,263,327,285,1 134,196,148,210,4 310,215,332,237,5 346,246,402,302,8 1,24,43,66,3 336,6,392,62,3 278,150,320,192,9 253,275,281,303,5 176,329,260,413,3 147,212,259,324,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000096.jpg 181,321,195,335,6 96,109,110,123,0 298,93,320,115,9 137,240,221,324,8 239,302,351,414,1 114,327,198,411,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000097.jpg 44,268,72,296,9 118,60,146,88,9 330,223,386,279,7 282,81,338,137,8 122,273,150,301,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000098.jpg 225,21,247,43,8 212,185,324,297,3 39,231,151,343,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000099.jpg 194,258,216,280,8 73,87,87,101,9 292,330,320,358,9 53,119,109,175,9 163,104,205,146,1 9,172,65,228,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000100.jpg 128,90,240,202,3 90,295,202,407,2 264,183,348,267,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000101.jpg 282,72,394,184,1 265,283,377,395,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000102.jpg 193,188,221,216,5 238,83,266,111,0 213,286,297,370,9 7,245,91,329,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000103.jpg 65,48,87,70,1 174,219,258,303,1 124,56,236,168,4 282,166,394,278,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000104.jpg 251,192,265,206,1 50,181,72,203,9 16,294,72,350,1 377,312,405,340,4 106,106,148,148,0 295,343,323,371,8 144,150,186,192,9 333,13,375,55,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000105.jpg 278,176,292,190,5 223,96,245,118,4 57,177,85,205,2 118,224,146,252,1 140,188,168,216,2 225,7,281,63,5 300,178,328,206,0 142,348,170,376,0 186,179,298,291,5 19,268,103,352,5 297,29,409,141,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000106.jpg 214,107,228,121,7 267,138,289,160,9 122,323,150,351,1 290,46,332,88,7 152,379,180,407,1 377,115,405,143,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000107.jpg 328,66,350,88,2 99,43,121,65,1 364,392,378,406,1 242,219,298,275,2 134,223,176,265,9 114,272,198,356,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000108.jpg 375,349,397,371,8 225,378,247,400,9 32,351,88,407,1 298,15,326,43,9 122,356,164,398,6 379,201,407,229,9 3,152,59,208,1 82,184,166,268,6 76,85,160,169,3 165,269,249,353,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000109.jpg 316,22,338,44,3 296,351,324,379,5 169,164,225,220,9 293,163,321,191,0 316,62,344,90,2 38,76,150,188,1 224,183,336,295,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000110.jpg 230,336,252,358,7 148,294,170,316,9 164,169,276,281,7 112,8,224,120,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000111.jpg 167,148,181,162,0 132,312,146,326,6 382,11,410,39,1 292,283,320,311,8 162,217,204,259,9 10,182,94,266,3 267,124,379,236,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000112.jpg 32,273,74,315,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000113.jpg 267,178,289,200,5 359,22,387,50,8 249,9,277,37,1 91,132,175,216,4 245,293,329,377,0 43,276,155,388,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000114.jpg 13,86,35,108,5 301,224,323,246,1 52,53,74,75,7 249,239,291,281,4 346,81,388,123,1 210,301,266,357,6 24,28,52,56,0 275,26,303,54,3 126,22,238,134,8 328,135,412,219,6 143,224,227,308,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000115.jpg 35,332,57,354,5 163,195,177,209,9 170,156,282,268,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000116.jpg 387,226,409,248,7 165,14,179,28,3 191,372,213,394,0 327,282,383,338,4 128,330,156,358,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000117.jpg 98,375,120,397,2 364,242,386,264,0 135,100,157,122,0 294,110,336,152,2 66,135,108,177,0 25,0,67,42,9 194,352,222,380,6 36,292,78,334,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000118.jpg 309,276,365,332,4 45,58,73,86,0 178,95,290,207,9 203,287,315,399,0 81,14,193,126,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000119.jpg 263,97,277,111,0 340,160,354,174,3 217,121,259,163,3 308,66,336,94,8 75,87,131,143,9 32,67,74,109,1 282,195,394,307,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000120.jpg 291,148,305,162,5 112,185,134,207,9 324,393,338,407,4 191,301,233,343,5 218,385,246,413,7 84,287,126,329,1 256,34,298,76,3 209,205,251,247,5 170,103,212,145,8 274,116,386,228,0 280,231,364,315,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000121.jpg 301,216,315,230,8 148,350,162,364,4 154,185,210,241,1 266,368,308,410,9 310,102,352,144,7 27,352,69,394,6 35,63,91,119,9 130,52,186,108,6 50,181,134,265,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000122.jpg 344,137,358,151,0 185,128,207,150,8 57,33,169,145,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000123.jpg 36,376,50,390,1 255,281,339,365,8 174,67,258,151,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000124.jpg 171,382,185,396,3 169,271,183,285,4 80,314,94,328,7 56,218,98,260,8 267,346,309,388,7 168,137,196,165,2 228,209,256,237,0 187,287,243,343,0 180,10,292,122,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000125.jpg 177,245,219,287,9 46,221,88,263,4 105,362,133,390,6 239,179,351,291,8 248,49,360,161,6 21,33,133,145,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000126.jpg 60,42,82,64,8 284,124,306,146,5 291,68,305,82,7 10,236,66,292,7 239,300,351,412,0 45,302,157,414,3 97,60,209,172,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000127.jpg 84,373,106,395,1 352,213,408,269,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000128.jpg 282,266,296,280,4 283,395,297,409,1 238,111,260,133,4 84,277,140,333,8 163,253,205,295,3 275,253,387,365,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000129.jpg 388,192,410,214,6 26,183,48,205,5 246,228,302,284,6 295,332,351,388,6 369,221,411,263,9 298,89,326,117,3 204,297,260,353,7 112,134,140,162,6 50,280,162,392,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000130.jpg 93,301,107,315,3 155,172,177,194,4 359,74,381,96,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000131.jpg 65,145,121,201,3 151,329,235,413,8 278,123,362,207,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000132.jpg 14,213,36,235,0 257,9,271,23,8 219,91,233,105,2 50,102,106,158,3 102,149,144,191,2 256,153,312,209,8 113,46,141,74,2 35,273,147,385,3 235,285,347,397,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000133.jpg 367,389,389,411,4 152,349,166,363,7 323,212,337,226,4 249,94,291,136,1 364,310,406,352,5 5,24,33,52,0 107,132,219,244,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000134.jpg 34,132,48,146,2 335,57,357,79,1 327,34,341,48,6 252,61,294,103,6 265,277,293,305,6 123,149,179,205,3 81,243,193,355,9 255,171,339,255,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000135.jpg 336,296,378,338,1 120,341,148,369,9 357,208,399,250,0 240,225,268,253,2 232,361,260,389,0 76,31,118,73,0 264,220,348,304,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000136.jpg 385,27,407,49,8 20,26,34,40,8 156,393,170,407,7 294,152,350,208,3 311,62,353,104,6 124,338,166,380,1 111,184,153,226,8 313,220,369,276,3 177,219,261,303,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000137.jpg 305,307,319,321,4 308,90,322,104,6 130,66,152,88,6 345,281,387,323,6 344,191,372,219,0 41,318,83,360,9 204,274,246,316,4 256,222,284,250,9 339,82,381,124,7 128,98,240,210,2 261,122,345,206,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000138.jpg 92,163,106,177,9 83,168,195,280,3 74,47,158,131,8 219,11,331,123,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000139.jpg 44,107,58,121,2 341,21,363,43,3 112,107,154,149,9 127,176,169,218,7 244,236,272,264,3 198,128,254,184,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000140.jpg 18,85,46,113,9 257,7,285,35,2 35,287,91,343,8 120,292,204,376,0 225,215,309,299,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000141.jpg 102,314,124,336,7 74,312,96,334,7 369,199,383,213,0 210,169,322,281,4 74,138,186,250,1 237,5,349,117,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000142.jpg 122,135,136,149,5 275,233,387,345,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000143.jpg 394,4,408,18,3 385,191,399,205,5 254,155,282,183,7 140,99,196,155,4 75,101,131,157,2 218,91,274,147,7 260,342,316,398,9 209,294,265,350,3 114,295,198,379,5 35,246,119,330,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000144.jpg 252,332,274,354,1 210,275,232,297,2 96,59,118,81,3 99,300,141,342,4 247,44,331,128,3 286,304,370,388,3 31,168,143,280,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000145.jpg 182,187,204,209,4 165,138,179,152,5 243,250,285,292,0 343,327,385,369,8 99,224,127,252,6 172,20,284,132,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000146.jpg 208,215,264,271,7 256,262,298,304,1 11,203,95,287,6 75,90,159,174,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000147.jpg 392,190,406,204,8 260,35,282,57,6 107,10,191,94,7 191,77,303,189,9 138,244,250,356,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000148.jpg 260,322,282,344,0 61,194,103,236,9 112,352,154,394,1 238,0,280,42,9 108,123,150,165,7 173,10,201,38,9 118,247,230,359,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000149.jpg 71,223,93,245,3 347,138,361,152,0 8,328,92,412,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000150.jpg 267,121,281,135,2 264,47,286,69,5 62,372,90,400,0 233,187,275,229,3 313,190,355,232,7 92,253,134,295,6 111,333,167,389,5 59,6,171,118,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000151.jpg 100,386,128,414,9 135,14,177,56,9 327,114,355,142,1 299,167,383,251,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000152.jpg 109,187,131,209,8 57,318,99,360,6 192,153,234,195,0 339,233,381,275,9 287,149,315,177,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000153.jpg 316,194,400,278,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000154.jpg 34,113,56,135,9 395,336,409,350,1 92,335,134,377,3 247,117,289,159,6 225,297,337,409,6 79,2,163,86,8 329,232,413,316,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000155.jpg 346,61,360,75,2 132,149,154,171,4 38,266,80,308,6 175,263,287,375,0 31,67,115,151,8 269,192,353,276,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000156.jpg 353,15,395,57,1 44,209,72,237,2 146,83,174,111,6 31,288,87,344,0 330,220,386,276,0 217,61,329,173,4 185,247,297,359,2 298,293,410,405,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000157.jpg 217,358,239,380,6 169,125,191,147,7 95,333,137,375,1 277,302,333,358,9 53,281,95,323,2 325,71,381,127,5 277,11,305,39,0 100,285,128,313,2 24,128,136,240,3 195,152,307,264,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000158.jpg 330,61,358,89,2 85,9,127,51,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000159.jpg 327,110,349,132,7 118,40,174,96,2 29,330,85,386,2 223,55,335,167,2 100,328,184,412,8 124,139,236,251,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000160.jpg 353,147,381,175,1 241,27,353,139,6 287,186,399,298,7 166,184,250,268,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000161.jpg 112,166,154,208,9 222,27,306,111,8 282,229,394,341,9 179,315,263,399,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000162.jpg 71,328,85,342,5 123,51,145,73,1 260,79,372,191,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000163.jpg 184,8,198,22,7 138,110,194,166,7 257,98,369,210,3 253,238,365,350,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000164.jpg 34,167,56,189,1 179,327,193,341,6 296,220,318,242,0 222,210,250,238,0 1,207,85,291,1 252,42,364,154,2 119,103,231,215,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000165.jpg 219,281,233,295,1 335,373,357,395,6 29,151,43,165,0 243,336,299,392,4 113,261,169,317,4 142,18,170,46,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000166.jpg 381,163,395,177,1 203,250,217,264,5 113,112,141,140,7 207,44,263,100,9 242,137,326,221,9 142,277,254,389,7 70,157,182,269,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000167.jpg 44,14,58,28,1 280,113,336,169,1 235,9,263,37,6 82,209,124,251,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000168.jpg 125,133,181,189,9 100,202,128,230,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000169.jpg 54,89,68,103,8 281,229,323,271,4 191,218,233,260,2 310,384,338,412,4 253,240,281,268,3 170,43,282,155,2 289,4,401,116,4 79,258,163,342,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000170.jpg 339,314,361,336,1 94,208,108,222,7 198,314,212,328,4 34,202,76,244,1 295,235,323,263,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000171.jpg 302,98,386,182,3 38,139,150,251,2 202,160,314,272,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000172.jpg 266,362,288,384,6 372,190,386,204,4 28,193,56,221,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000173.jpg 198,217,212,231,6 94,266,116,288,3 234,322,256,344,8 168,320,210,362,9 121,166,177,222,0 87,56,129,98,5 223,11,335,123,8 237,159,349,271,9 331,317,415,401,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000174.jpg 143,128,199,184,4 54,0,110,56,3 208,168,264,224,8 355,198,383,226,2 308,342,336,370,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000175.jpg 306,39,328,61,3 2,251,24,273,8 159,305,173,319,9 200,189,256,245,6 292,252,348,308,0 81,204,137,260,2 56,348,98,390,4 50,274,92,316,9 6,7,48,49,7 274,83,386,195,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000176.jpg 276,243,290,257,0 67,111,95,139,4 330,222,358,250,1 40,48,82,90,5 59,199,87,227,0 111,116,167,172,8 42,282,84,324,6 73,320,157,404,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000177.jpg 325,349,347,371,9 357,119,371,133,7 155,348,183,376,9 197,366,225,394,2 284,155,340,211,6 154,306,182,334,6 163,43,219,99,5 290,10,402,122,7 139,149,251,261,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000178.jpg 274,200,296,222,2 315,358,343,386,0 188,342,216,370,4 113,181,155,223,3 127,265,169,307,5 353,56,409,112,4 34,203,118,287,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000179.jpg 90,249,118,277,0 294,34,336,76,9 165,83,249,167,3 135,256,247,368,7 253,144,365,256,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000180.jpg 312,143,326,157,6 74,258,96,280,7 381,92,403,114,0 322,87,364,129,9 234,52,276,94,5 217,289,329,401,9 76,122,160,206,4 202,149,314,261,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000181.jpg 44,277,86,319,3 156,155,198,197,5 163,285,275,397,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000182.jpg 32,26,54,48,0 348,95,362,109,3 306,176,320,190,6 175,247,231,303,8 270,170,382,282,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000183.jpg 270,386,292,408,7 62,211,84,233,2 10,35,38,63,1 117,63,159,105,0 225,259,309,343,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000184.jpg 106,364,120,378,9 165,10,179,24,3 285,46,313,74,5 302,254,344,296,0 48,173,132,257,8
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000185.jpg 306,355,328,377,0 88,149,102,163,2 359,163,415,219,0 208,24,264,80,0 74,333,102,361,7 325,196,353,224,8 304,125,346,167,2 188,167,300,279,9 3,164,87,248,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000186.jpg 287,156,301,170,9 285,242,299,256,5 234,212,262,240,9 42,294,154,406,6
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000187.jpg 15,392,37,414,6 329,62,343,76,8 342,151,370,179,5 81,293,123,335,9 284,331,340,387,2 258,200,286,228,9 187,358,215,386,9 177,20,205,48,3 82,74,166,158,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000188.jpg 298,140,312,154,1 19,147,41,169,4 384,267,406,289,6 104,99,160,155,0 271,191,299,219,0 217,345,245,373,2 237,77,279,119,1 90,255,118,283,4
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000189.jpg 145,246,167,268,6 255,230,283,258,1 11,119,123,231,3
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000190.jpg 73,269,101,297,4 181,87,223,129,1
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000191.jpg 192,308,214,330,1 397,374,411,388,5 282,385,304,407,2 130,180,172,222,2 359,269,415,325,2 352,342,394,384,2
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000192.jpg 126,151,210,235,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000193.jpg 368,112,390,134,2 18,36,60,78,6 290,53,332,95,3 44,96,128,180,9 217,165,301,249,9
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000194.jpg 77,237,91,251,9 172,250,194,272,7 242,230,264,252,9 29,347,85,403,4 56,103,98,145,1 259,125,301,167,1 368,135,396,163,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000195.jpg 135,145,157,167,6 80,145,102,167,0 270,237,326,293,8 43,30,71,58,3 21,247,133,359,6 244,125,328,209,0 295,295,379,379,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000196.jpg 2,137,16,151,7 234,114,256,136,3 115,342,157,384,4 31,175,59,203,1 112,247,140,275,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000197.jpg 164,132,220,188,2 217,39,259,81,0 243,295,327,379,9 162,317,246,401,0 4,199,116,311,0
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000198.jpg 304,344,318,358,7 35,238,49,252,4 32,82,54,104,6 34,277,76,319,5 329,242,413,326,7
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000199.jpg 196,278,224,306,8 272,328,314,370,5 173,386,201,414,7 207,339,263,395,5 37,80,79,122,0 119,317,161,359,2 250,91,334,175,3 87,110,171,194,7 17,219,129,331,5
-/home/jimmy15923/mnt/project_code/TensorFlow2.0-Examples/4-Object_Detection/YOLOV3/data/dataset/test/000200.jpg 376,283,390,297,5 159,241,173,255,1 39,108,61,130,4 181,48,265,132,2
+./data/dataset/test/000001.jpg 277,55,319,97,9 195,373,237,415,1 147,5,203,61,8 157,64,213,120,4 55,325,111,381,7 79,161,163,245,1
+./data/dataset/test/000002.jpg 227,106,339,218,4 56,61,168,173,0
+./data/dataset/test/000003.jpg 55,364,77,386,2 169,145,197,173,3 321,305,349,333,7 1,31,57,87,8 225,243,267,285,5 33,238,61,266,3 85,97,141,153,1 122,215,206,299,1 275,29,359,113,3 330,157,414,241,1
+./data/dataset/test/000004.jpg 311,122,333,144,9
+./data/dataset/test/000005.jpg 56,98,70,112,6 240,222,282,264,0 327,309,369,351,1 2,168,30,196,0 270,10,312,52,4
+./data/dataset/test/000006.jpg 120,245,232,357,7 2,11,114,123,6
+./data/dataset/test/000007.jpg 161,389,175,403,0 82,139,166,223,2 196,309,280,393,3 211,172,323,284,0
+./data/dataset/test/000008.jpg 303,226,345,268,7 107,241,149,283,6 162,114,246,198,1
+./data/dataset/test/000009.jpg 216,379,230,393,2 293,149,405,261,5
+./data/dataset/test/000010.jpg 117,238,131,252,6 394,368,408,382,6 32,138,60,166,9 204,28,246,70,2 149,31,191,73,3 143,164,171,192,9 37,276,93,332,1 106,290,190,374,0
+./data/dataset/test/000011.jpg 285,7,307,29,7 233,50,255,72,5 363,344,377,358,1 306,164,334,192,2 366,196,408,238,1 263,357,291,385,5 70,127,182,239,1
+./data/dataset/test/000012.jpg 255,227,283,255,2 184,64,212,92,9 140,221,182,263,4 206,80,318,192,0 13,24,125,136,0 165,322,249,406,0
+./data/dataset/test/000013.jpg 228,42,242,56,9 282,151,296,165,1 269,88,297,116,9
+./data/dataset/test/000014.jpg 295,205,337,247,9 333,145,375,187,8 279,331,307,359,8 28,69,112,153,0 4,240,88,324,1
+./data/dataset/test/000015.jpg 72,215,94,237,2 195,152,217,174,0 139,47,195,103,7 350,178,406,234,3 116,162,158,204,8 239,226,295,282,7 10,345,38,373,9 242,93,326,177,7
+./data/dataset/test/000016.jpg 130,334,152,356,8 269,144,283,158,2 179,26,235,82,9 97,34,125,62,2 235,81,291,137,6 188,136,244,192,8
+./data/dataset/test/000017.jpg 147,89,161,103,2 27,145,55,173,7 307,153,349,195,8 130,48,158,76,7 257,245,369,357,0 209,34,293,118,2 135,137,247,249,7
+./data/dataset/test/000018.jpg 394,143,408,157,9 199,13,221,35,1 183,80,211,108,3 102,180,158,236,4 54,13,166,125,0
+./data/dataset/test/000019.jpg 63,260,119,316,7 317,335,373,391,5 125,218,153,246,5 255,110,311,166,6 196,309,238,351,1 150,142,262,254,0 80,80,164,164,4
+./data/dataset/test/000020.jpg 388,200,402,214,0 7,240,29,262,2 163,227,177,241,7 341,226,397,282,7 308,352,350,394,4 55,297,83,325,7 250,153,334,237,8 88,268,172,352,1 23,27,107,111,9
+./data/dataset/test/000021.jpg 6,71,62,127,7 161,0,217,56,1 70,153,98,181,1 261,169,289,197,9 232,104,288,160,7 249,266,305,322,9 111,125,195,209,1 284,14,396,126,3 5,299,117,411,5
+./data/dataset/test/000022.jpg 17,230,39,252,2 266,202,350,286,1
+./data/dataset/test/000023.jpg 264,109,278,123,3 329,207,351,229,8 128,4,184,60,6 101,184,157,240,7 348,39,390,81,1 193,51,221,79,3 351,331,393,373,4 166,170,250,254,3 84,66,196,178,1
+./data/dataset/test/000024.jpg 314,206,328,220,8 41,258,97,314,9 279,145,307,173,8 168,28,280,140,9
+./data/dataset/test/000025.jpg 240,21,254,35,7 359,357,373,371,2 227,99,283,155,9 197,314,253,370,1 76,280,104,308,2 229,233,285,289,7 284,86,326,128,8 168,200,196,228,8 301,234,385,318,9 117,13,229,125,9 1,136,113,248,7
+./data/dataset/test/000026.jpg 292,155,306,169,9 313,397,327,411,8 90,48,104,62,3 87,195,143,251,7 292,170,348,226,4 152,72,208,128,5 239,49,267,77,1 294,26,322,54,0 157,287,241,371,1 153,174,237,258,6 301,60,385,144,3
+./data/dataset/test/000027.jpg 57,102,79,124,4 249,247,263,261,8 365,312,387,334,9 12,188,68,244,3 147,246,203,302,5 282,281,310,309,3 29,252,85,308,9 104,127,216,239,6 220,107,332,219,1 36,0,148,112,8
+./data/dataset/test/000028.jpg 276,185,290,199,7 214,300,242,328,2 199,245,241,287,1 223,114,279,170,9 276,26,388,138,4
+./data/dataset/test/000029.jpg 66,231,88,253,6 270,26,382,138,8 95,299,207,411,4
+./data/dataset/test/000030.jpg 65,208,107,250,9 161,50,217,106,9 237,22,265,50,1 112,239,154,281,5 330,300,386,356,6 235,114,347,226,4 43,286,155,398,6
+./data/dataset/test/000031.jpg 181,375,203,397,7 100,62,114,76,0 211,53,253,95,0 144,256,172,284,2
+./data/dataset/test/000032.jpg 284,23,340,79,0 312,250,354,292,6 268,343,296,371,1 217,98,259,140,4 353,18,409,74,4 54,188,166,300,2 201,165,313,277,1
+./data/dataset/test/000033.jpg 293,370,315,392,8 247,20,269,42,9 13,10,41,38,7 4,295,32,323,5 188,122,216,150,6 42,258,84,300,9 98,274,182,358,1 77,161,189,273,7
+./data/dataset/test/000034.jpg 346,177,360,191,8 81,198,103,220,8 67,337,109,379,4 290,55,332,97,5 192,241,248,297,2 262,99,346,183,7
+./data/dataset/test/000035.jpg 186,8,200,22,4 205,344,261,400,3 184,288,212,316,7 285,226,341,282,1
+./data/dataset/test/000036.jpg 222,385,236,399,7 134,183,246,295,1 0,331,84,415,5 119,3,231,115,6
+./data/dataset/test/000037.jpg 66,126,80,140,4 30,107,44,121,4 216,268,230,282,1 8,10,36,38,1 323,64,365,106,3 329,123,371,165,6 276,295,304,323,6 339,350,395,406,8 16,64,58,106,5 163,152,247,236,9
+./data/dataset/test/000038.jpg 343,130,357,144,7 281,110,295,124,9 126,118,210,202,1
+./data/dataset/test/000039.jpg 124,166,146,188,5 79,15,101,37,8 153,220,167,234,9 57,59,99,101,2 190,113,302,225,3 127,275,211,359,3 245,278,357,390,9
+./data/dataset/test/000040.jpg 317,97,339,119,2 245,43,267,65,0 109,159,151,201,8 244,221,286,263,6 222,289,264,331,3 320,315,362,357,9 153,18,237,102,7 89,261,201,373,0 1,147,113,259,3
+./data/dataset/test/000041.jpg 242,367,264,389,6 42,230,64,252,7 140,64,168,92,5
+./data/dataset/test/000042.jpg 52,59,74,81,1 218,47,240,69,7 131,196,145,210,4 311,1,367,57,2 258,187,286,215,2 318,103,346,131,7 239,121,267,149,2 131,319,215,403,3 94,39,178,123,2 233,261,317,345,9
+./data/dataset/test/000043.jpg 243,3,265,25,9 139,301,195,357,5 280,250,336,306,1 80,236,136,292,6 132,125,216,209,0 2,89,114,201,6 248,117,360,229,9
+./data/dataset/test/000044.jpg 172,139,194,161,6 102,275,116,289,3 128,196,150,218,0
+./data/dataset/test/000045.jpg 343,317,399,373,3 206,144,234,172,1 273,38,315,80,6 219,266,275,322,4 341,230,383,272,3 119,243,203,327,1 15,128,127,240,8
+./data/dataset/test/000046.jpg 307,1,321,15,4 228,345,284,401,9 3,266,59,322,8 64,45,106,87,1 155,32,239,116,8 150,129,262,241,9 9,113,93,197,2
+./data/dataset/test/000047.jpg 49,213,63,227,1 153,117,181,145,0 167,204,209,246,0 38,271,66,299,4 63,274,175,386,5 53,165,165,277,5 76,37,160,121,3
+./data/dataset/test/000048.jpg 326,291,340,305,2 110,249,124,263,3 254,53,310,109,1 36,120,64,148,5 250,125,306,181,7 282,283,394,395,4 2,0,114,112,9
+./data/dataset/test/000049.jpg 309,309,331,331,3 41,63,69,91,2 102,192,144,234,2 130,230,242,342,1 168,142,252,226,0 295,189,379,273,7
+./data/dataset/test/000050.jpg 269,209,283,223,0 151,43,173,65,1 212,168,234,190,7 34,48,62,76,4 293,276,335,318,8 163,119,219,175,4 35,175,91,231,0 3,290,59,346,2 173,184,285,296,2 259,44,371,156,7 78,95,162,179,6
+./data/dataset/test/000051.jpg 207,189,229,211,2 309,2,365,58,6 186,252,242,308,7 83,48,139,104,9 29,192,71,234,5 82,123,110,151,7 151,317,179,345,5 251,65,335,149,9 108,169,192,253,2
+./data/dataset/test/000052.jpg 124,154,138,168,9 141,240,163,262,4 316,81,358,123,2 329,127,371,169,4 236,268,348,380,7
+./data/dataset/test/000053.jpg 297,339,319,361,1 173,44,229,100,9 364,276,406,318,7 358,61,400,103,8 110,64,166,120,7 120,127,162,169,6 86,190,198,302,4 145,302,229,386,6 258,18,342,102,5
+./data/dataset/test/000054.jpg 357,189,379,211,3 205,345,219,359,2 134,98,176,140,1 51,273,79,301,1 27,29,55,57,6
+./data/dataset/test/000055.jpg 306,49,328,71,0 386,59,408,81,0 144,61,200,117,0 20,245,104,329,0 290,134,374,218,0 108,161,220,273,1
+./data/dataset/test/000056.jpg 149,40,233,124,4 234,327,318,411,9 25,269,109,353,9
+./data/dataset/test/000057.jpg 170,80,184,94,6 109,32,137,60,2 28,11,56,39,8 347,191,389,233,8 253,192,295,234,4
+./data/dataset/test/000058.jpg 268,128,282,142,7 310,159,366,215,6 387,168,415,196,1 52,285,94,327,2 54,123,166,235,6 150,256,262,368,8
+./data/dataset/test/000059.jpg 140,241,154,255,6 175,64,197,86,0 22,252,36,266,7 309,139,351,181,9 90,186,146,242,5 181,345,209,373,8 347,61,389,103,6 38,293,66,321,6
+./data/dataset/test/000060.jpg 19,270,33,284,5 207,129,235,157,4 112,52,154,94,2 171,262,255,346,0 311,166,395,250,9 60,190,144,274,8
+./data/dataset/test/000061.jpg 41,77,83,119,6
+./data/dataset/test/000062.jpg 384,202,412,230,8 168,197,196,225,4 304,111,346,153,3 60,6,102,48,8 341,270,397,326,5 198,258,310,370,8 185,73,297,185,6 85,38,169,122,4
+./data/dataset/test/000063.jpg 371,79,385,93,3 337,144,365,172,6 256,29,284,57,3 335,311,391,367,2 134,275,162,303,7 140,172,196,228,4 34,175,90,231,5 81,72,165,156,7 231,195,343,307,6
+./data/dataset/test/000064.jpg 87,106,109,128,4 366,130,394,158,1 58,183,100,225,6 228,314,312,398,1
+./data/dataset/test/000065.jpg 154,117,182,145,1 194,259,278,343,3 109,181,193,265,4
+./data/dataset/test/000066.jpg 68,235,90,257,0 152,9,166,23,7 238,151,294,207,5 102,0,214,112,1
+./data/dataset/test/000067.jpg 239,167,295,223,8 56,125,112,181,1 301,314,357,370,3 155,275,183,303,7
+./data/dataset/test/000068.jpg 170,221,212,263,9 100,254,142,296,9 362,194,390,222,3 329,281,357,309,7 158,281,200,323,8 355,305,397,347,1 199,126,311,238,6
+./data/dataset/test/000069.jpg 278,20,300,42,1 78,367,100,389,9 11,363,33,385,7 42,306,84,348,7 255,150,283,178,4 290,320,346,376,9 125,95,209,179,4
+./data/dataset/test/000070.jpg 109,0,131,22,6 215,177,257,219,7 204,91,246,133,3 283,302,325,344,9 250,85,306,141,3 114,219,142,247,6 0,173,56,229,2 302,107,414,219,6 331,246,415,330,2 12,272,124,384,1
+./data/dataset/test/000071.jpg 208,70,230,92,1 118,130,140,152,7 357,321,399,363,7 188,191,230,233,2 243,68,271,96,8 248,368,276,396,8 306,332,334,360,7 26,36,68,78,4
+./data/dataset/test/000072.jpg 1,207,15,221,5 87,202,109,224,7 125,189,153,217,8 214,268,270,324,7 251,80,363,192,9 83,37,195,149,9 177,188,261,272,2
+./data/dataset/test/000073.jpg 307,305,329,327,0 100,123,142,165,6 179,296,207,324,5 60,210,116,266,1 258,199,342,283,7 19,287,131,399,0 131,203,215,287,6
+./data/dataset/test/000074.jpg 288,148,310,170,7 271,279,285,293,6 325,357,381,413,3 176,314,218,356,5 24,72,80,128,1 71,187,113,229,1 156,92,212,148,6 42,273,98,329,6 183,144,295,256,4 211,45,295,129,9
+./data/dataset/test/000075.jpg 328,356,356,384,2 121,11,177,67,7 82,218,124,260,0 323,128,379,184,2 72,122,128,178,3 176,73,288,185,4 235,253,347,365,2
+./data/dataset/test/000076.jpg 208,98,264,154,8 195,183,307,295,6 38,66,122,150,9
+./data/dataset/test/000077.jpg 274,115,330,171,6 77,374,105,402,3 76,188,132,244,7 247,67,275,95,3 82,98,124,140,1
+./data/dataset/test/000078.jpg 329,10,343,24,1 221,247,243,269,5 379,186,401,208,1 100,89,128,117,6 297,368,339,410,2 249,209,361,321,7 18,306,102,390,3 101,187,213,299,9
+./data/dataset/test/000079.jpg 295,211,317,233,4 64,334,120,390,8 135,49,163,77,9 160,255,188,283,3
+./data/dataset/test/000080.jpg 188,85,230,127,4 239,288,281,330,8 247,6,289,48,7 336,69,378,111,1 149,114,191,156,2 269,145,297,173,1 292,185,404,297,4
+./data/dataset/test/000081.jpg 13,102,27,116,6 388,351,410,373,2 59,257,73,271,9 118,312,146,340,7 336,210,378,252,8 249,150,305,206,1 55,208,97,250,9 214,35,326,147,0
+./data/dataset/test/000082.jpg 150,359,172,381,8 364,127,386,149,1 231,389,245,403,4 232,298,274,340,5 302,216,330,244,4 77,154,105,182,1
+./data/dataset/test/000083.jpg 65,346,79,360,8 378,114,392,128,4 203,335,259,391,2 102,28,130,56,0 110,240,166,296,6 220,38,276,94,0 250,154,362,266,0
+./data/dataset/test/000084.jpg 177,290,199,312,6 157,30,213,86,9 321,175,349,203,7 237,189,265,217,9 37,207,65,235,1 73,116,129,172,1
+./data/dataset/test/000085.jpg 301,384,323,406,0 266,40,288,62,4 56,159,70,173,7 158,36,242,120,3
+./data/dataset/test/000086.jpg 228,16,242,30,5 188,117,216,145,8
+./data/dataset/test/000087.jpg 46,100,60,114,6 342,213,364,235,1 3,114,31,142,6 7,360,35,388,5 213,111,255,153,7 183,298,225,340,3 314,306,370,362,9 120,79,204,163,7 217,16,301,100,4
+./data/dataset/test/000088.jpg 263,140,277,154,2 180,56,202,78,9 157,380,171,394,1 384,217,412,245,9 20,6,104,90,0
+./data/dataset/test/000089.jpg 164,223,186,245,6 254,25,296,67,1 11,144,53,186,7 336,348,392,404,4 157,296,199,338,7 38,16,122,100,6 223,281,335,393,0 30,184,142,296,7
+./data/dataset/test/000090.jpg 62,201,76,215,7 321,186,335,200,9 257,352,313,408,3 162,119,246,203,9 71,237,183,349,8
+./data/dataset/test/000091.jpg 98,339,120,361,0 88,361,102,375,1 33,380,47,394,2
+./data/dataset/test/000092.jpg 247,348,261,362,4 0,302,14,316,5 180,337,194,351,0 248,39,304,95,1 108,107,220,219,6 225,252,337,364,7
+./data/dataset/test/000093.jpg 322,242,336,256,5 190,280,218,308,7 226,98,310,182,7
+./data/dataset/test/000094.jpg 58,379,86,407,8 249,111,277,139,4 225,353,253,381,2 310,316,352,358,2 106,339,162,395,3 164,90,248,174,2 198,227,282,311,6 301,119,385,203,3
+./data/dataset/test/000095.jpg 305,263,327,285,1 134,196,148,210,4 310,215,332,237,5 346,246,402,302,8 1,24,43,66,3 336,6,392,62,3 278,150,320,192,9 253,275,281,303,5 176,329,260,413,3 147,212,259,324,0
+./data/dataset/test/000096.jpg 181,321,195,335,6 96,109,110,123,0 298,93,320,115,9 137,240,221,324,8 239,302,351,414,1 114,327,198,411,7
+./data/dataset/test/000097.jpg 44,268,72,296,9 118,60,146,88,9 330,223,386,279,7 282,81,338,137,8 122,273,150,301,3
+./data/dataset/test/000098.jpg 225,21,247,43,8 212,185,324,297,3 39,231,151,343,6
+./data/dataset/test/000099.jpg 194,258,216,280,8 73,87,87,101,9 292,330,320,358,9 53,119,109,175,9 163,104,205,146,1 9,172,65,228,9
+./data/dataset/test/000100.jpg 128,90,240,202,3 90,295,202,407,2 264,183,348,267,2
+./data/dataset/test/000101.jpg 282,72,394,184,1 265,283,377,395,7
+./data/dataset/test/000102.jpg 193,188,221,216,5 238,83,266,111,0 213,286,297,370,9 7,245,91,329,2
+./data/dataset/test/000103.jpg 65,48,87,70,1 174,219,258,303,1 124,56,236,168,4 282,166,394,278,8
+./data/dataset/test/000104.jpg 251,192,265,206,1 50,181,72,203,9 16,294,72,350,1 377,312,405,340,4 106,106,148,148,0 295,343,323,371,8 144,150,186,192,9 333,13,375,55,7
+./data/dataset/test/000105.jpg 278,176,292,190,5 223,96,245,118,4 57,177,85,205,2 118,224,146,252,1 140,188,168,216,2 225,7,281,63,5 300,178,328,206,0 142,348,170,376,0 186,179,298,291,5 19,268,103,352,5 297,29,409,141,5
+./data/dataset/test/000106.jpg 214,107,228,121,7 267,138,289,160,9 122,323,150,351,1 290,46,332,88,7 152,379,180,407,1 377,115,405,143,4
+./data/dataset/test/000107.jpg 328,66,350,88,2 99,43,121,65,1 364,392,378,406,1 242,219,298,275,2 134,223,176,265,9 114,272,198,356,8
+./data/dataset/test/000108.jpg 375,349,397,371,8 225,378,247,400,9 32,351,88,407,1 298,15,326,43,9 122,356,164,398,6 379,201,407,229,9 3,152,59,208,1 82,184,166,268,6 76,85,160,169,3 165,269,249,353,9
+./data/dataset/test/000109.jpg 316,22,338,44,3 296,351,324,379,5 169,164,225,220,9 293,163,321,191,0 316,62,344,90,2 38,76,150,188,1 224,183,336,295,6
+./data/dataset/test/000110.jpg 230,336,252,358,7 148,294,170,316,9 164,169,276,281,7 112,8,224,120,8
+./data/dataset/test/000111.jpg 167,148,181,162,0 132,312,146,326,6 382,11,410,39,1 292,283,320,311,8 162,217,204,259,9 10,182,94,266,3 267,124,379,236,0
+./data/dataset/test/000112.jpg 32,273,74,315,2
+./data/dataset/test/000113.jpg 267,178,289,200,5 359,22,387,50,8 249,9,277,37,1 91,132,175,216,4 245,293,329,377,0 43,276,155,388,9
+./data/dataset/test/000114.jpg 13,86,35,108,5 301,224,323,246,1 52,53,74,75,7 249,239,291,281,4 346,81,388,123,1 210,301,266,357,6 24,28,52,56,0 275,26,303,54,3 126,22,238,134,8 328,135,412,219,6 143,224,227,308,3
+./data/dataset/test/000115.jpg 35,332,57,354,5 163,195,177,209,9 170,156,282,268,7
+./data/dataset/test/000116.jpg 387,226,409,248,7 165,14,179,28,3 191,372,213,394,0 327,282,383,338,4 128,330,156,358,6
+./data/dataset/test/000117.jpg 98,375,120,397,2 364,242,386,264,0 135,100,157,122,0 294,110,336,152,2 66,135,108,177,0 25,0,67,42,9 194,352,222,380,6 36,292,78,334,1
+./data/dataset/test/000118.jpg 309,276,365,332,4 45,58,73,86,0 178,95,290,207,9 203,287,315,399,0 81,14,193,126,1
+./data/dataset/test/000119.jpg 263,97,277,111,0 340,160,354,174,3 217,121,259,163,3 308,66,336,94,8 75,87,131,143,9 32,67,74,109,1 282,195,394,307,5
+./data/dataset/test/000120.jpg 291,148,305,162,5 112,185,134,207,9 324,393,338,407,4 191,301,233,343,5 218,385,246,413,7 84,287,126,329,1 256,34,298,76,3 209,205,251,247,5 170,103,212,145,8 274,116,386,228,0 280,231,364,315,4
+./data/dataset/test/000121.jpg 301,216,315,230,8 148,350,162,364,4 154,185,210,241,1 266,368,308,410,9 310,102,352,144,7 27,352,69,394,6 35,63,91,119,9 130,52,186,108,6 50,181,134,265,0
+./data/dataset/test/000122.jpg 344,137,358,151,0 185,128,207,150,8 57,33,169,145,7
+./data/dataset/test/000123.jpg 36,376,50,390,1 255,281,339,365,8 174,67,258,151,3
+./data/dataset/test/000124.jpg 171,382,185,396,3 169,271,183,285,4 80,314,94,328,7 56,218,98,260,8 267,346,309,388,7 168,137,196,165,2 228,209,256,237,0 187,287,243,343,0 180,10,292,122,2
+./data/dataset/test/000125.jpg 177,245,219,287,9 46,221,88,263,4 105,362,133,390,6 239,179,351,291,8 248,49,360,161,6 21,33,133,145,9
+./data/dataset/test/000126.jpg 60,42,82,64,8 284,124,306,146,5 291,68,305,82,7 10,236,66,292,7 239,300,351,412,0 45,302,157,414,3 97,60,209,172,7
+./data/dataset/test/000127.jpg 84,373,106,395,1 352,213,408,269,7
+./data/dataset/test/000128.jpg 282,266,296,280,4 283,395,297,409,1 238,111,260,133,4 84,277,140,333,8 163,253,205,295,3 275,253,387,365,3
+./data/dataset/test/000129.jpg 388,192,410,214,6 26,183,48,205,5 246,228,302,284,6 295,332,351,388,6 369,221,411,263,9 298,89,326,117,3 204,297,260,353,7 112,134,140,162,6 50,280,162,392,0
+./data/dataset/test/000130.jpg 93,301,107,315,3 155,172,177,194,4 359,74,381,96,2
+./data/dataset/test/000131.jpg 65,145,121,201,3 151,329,235,413,8 278,123,362,207,2
+./data/dataset/test/000132.jpg 14,213,36,235,0 257,9,271,23,8 219,91,233,105,2 50,102,106,158,3 102,149,144,191,2 256,153,312,209,8 113,46,141,74,2 35,273,147,385,3 235,285,347,397,0
+./data/dataset/test/000133.jpg 367,389,389,411,4 152,349,166,363,7 323,212,337,226,4 249,94,291,136,1 364,310,406,352,5 5,24,33,52,0 107,132,219,244,4
+./data/dataset/test/000134.jpg 34,132,48,146,2 335,57,357,79,1 327,34,341,48,6 252,61,294,103,6 265,277,293,305,6 123,149,179,205,3 81,243,193,355,9 255,171,339,255,0
+./data/dataset/test/000135.jpg 336,296,378,338,1 120,341,148,369,9 357,208,399,250,0 240,225,268,253,2 232,361,260,389,0 76,31,118,73,0 264,220,348,304,1
+./data/dataset/test/000136.jpg 385,27,407,49,8 20,26,34,40,8 156,393,170,407,7 294,152,350,208,3 311,62,353,104,6 124,338,166,380,1 111,184,153,226,8 313,220,369,276,3 177,219,261,303,7
+./data/dataset/test/000137.jpg 305,307,319,321,4 308,90,322,104,6 130,66,152,88,6 345,281,387,323,6 344,191,372,219,0 41,318,83,360,9 204,274,246,316,4 256,222,284,250,9 339,82,381,124,7 128,98,240,210,2 261,122,345,206,5
+./data/dataset/test/000138.jpg 92,163,106,177,9 83,168,195,280,3 74,47,158,131,8 219,11,331,123,5
+./data/dataset/test/000139.jpg 44,107,58,121,2 341,21,363,43,3 112,107,154,149,9 127,176,169,218,7 244,236,272,264,3 198,128,254,184,2
+./data/dataset/test/000140.jpg 18,85,46,113,9 257,7,285,35,2 35,287,91,343,8 120,292,204,376,0 225,215,309,299,0
+./data/dataset/test/000141.jpg 102,314,124,336,7 74,312,96,334,7 369,199,383,213,0 210,169,322,281,4 74,138,186,250,1 237,5,349,117,0
+./data/dataset/test/000142.jpg 122,135,136,149,5 275,233,387,345,6
+./data/dataset/test/000143.jpg 394,4,408,18,3 385,191,399,205,5 254,155,282,183,7 140,99,196,155,4 75,101,131,157,2 218,91,274,147,7 260,342,316,398,9 209,294,265,350,3 114,295,198,379,5 35,246,119,330,3
+./data/dataset/test/000144.jpg 252,332,274,354,1 210,275,232,297,2 96,59,118,81,3 99,300,141,342,4 247,44,331,128,3 286,304,370,388,3 31,168,143,280,6
+./data/dataset/test/000145.jpg 182,187,204,209,4 165,138,179,152,5 243,250,285,292,0 343,327,385,369,8 99,224,127,252,6 172,20,284,132,8
+./data/dataset/test/000146.jpg 208,215,264,271,7 256,262,298,304,1 11,203,95,287,6 75,90,159,174,3
+./data/dataset/test/000147.jpg 392,190,406,204,8 260,35,282,57,6 107,10,191,94,7 191,77,303,189,9 138,244,250,356,3
+./data/dataset/test/000148.jpg 260,322,282,344,0 61,194,103,236,9 112,352,154,394,1 238,0,280,42,9 108,123,150,165,7 173,10,201,38,9 118,247,230,359,4
+./data/dataset/test/000149.jpg 71,223,93,245,3 347,138,361,152,0 8,328,92,412,4
+./data/dataset/test/000150.jpg 267,121,281,135,2 264,47,286,69,5 62,372,90,400,0 233,187,275,229,3 313,190,355,232,7 92,253,134,295,6 111,333,167,389,5 59,6,171,118,6
+./data/dataset/test/000151.jpg 100,386,128,414,9 135,14,177,56,9 327,114,355,142,1 299,167,383,251,6
+./data/dataset/test/000152.jpg 109,187,131,209,8 57,318,99,360,6 192,153,234,195,0 339,233,381,275,9 287,149,315,177,9
+./data/dataset/test/000153.jpg 316,194,400,278,1
+./data/dataset/test/000154.jpg 34,113,56,135,9 395,336,409,350,1 92,335,134,377,3 247,117,289,159,6 225,297,337,409,6 79,2,163,86,8 329,232,413,316,4
+./data/dataset/test/000155.jpg 346,61,360,75,2 132,149,154,171,4 38,266,80,308,6 175,263,287,375,0 31,67,115,151,8 269,192,353,276,2
+./data/dataset/test/000156.jpg 353,15,395,57,1 44,209,72,237,2 146,83,174,111,6 31,288,87,344,0 330,220,386,276,0 217,61,329,173,4 185,247,297,359,2 298,293,410,405,1
+./data/dataset/test/000157.jpg 217,358,239,380,6 169,125,191,147,7 95,333,137,375,1 277,302,333,358,9 53,281,95,323,2 325,71,381,127,5 277,11,305,39,0 100,285,128,313,2 24,128,136,240,3 195,152,307,264,7
+./data/dataset/test/000158.jpg 330,61,358,89,2 85,9,127,51,7
+./data/dataset/test/000159.jpg 327,110,349,132,7 118,40,174,96,2 29,330,85,386,2 223,55,335,167,2 100,328,184,412,8 124,139,236,251,1
+./data/dataset/test/000160.jpg 353,147,381,175,1 241,27,353,139,6 287,186,399,298,7 166,184,250,268,4
+./data/dataset/test/000161.jpg 112,166,154,208,9 222,27,306,111,8 282,229,394,341,9 179,315,263,399,2
+./data/dataset/test/000162.jpg 71,328,85,342,5 123,51,145,73,1 260,79,372,191,1
+./data/dataset/test/000163.jpg 184,8,198,22,7 138,110,194,166,7 257,98,369,210,3 253,238,365,350,8
+./data/dataset/test/000164.jpg 34,167,56,189,1 179,327,193,341,6 296,220,318,242,0 222,210,250,238,0 1,207,85,291,1 252,42,364,154,2 119,103,231,215,1
+./data/dataset/test/000165.jpg 219,281,233,295,1 335,373,357,395,6 29,151,43,165,0 243,336,299,392,4 113,261,169,317,4 142,18,170,46,5
+./data/dataset/test/000166.jpg 381,163,395,177,1 203,250,217,264,5 113,112,141,140,7 207,44,263,100,9 242,137,326,221,9 142,277,254,389,7 70,157,182,269,1
+./data/dataset/test/000167.jpg 44,14,58,28,1 280,113,336,169,1 235,9,263,37,6 82,209,124,251,3
+./data/dataset/test/000168.jpg 125,133,181,189,9 100,202,128,230,4
+./data/dataset/test/000169.jpg 54,89,68,103,8 281,229,323,271,4 191,218,233,260,2 310,384,338,412,4 253,240,281,268,3 170,43,282,155,2 289,4,401,116,4 79,258,163,342,7
+./data/dataset/test/000170.jpg 339,314,361,336,1 94,208,108,222,7 198,314,212,328,4 34,202,76,244,1 295,235,323,263,2
+./data/dataset/test/000171.jpg 302,98,386,182,3 38,139,150,251,2 202,160,314,272,2
+./data/dataset/test/000172.jpg 266,362,288,384,6 372,190,386,204,4 28,193,56,221,9
+./data/dataset/test/000173.jpg 198,217,212,231,6 94,266,116,288,3 234,322,256,344,8 168,320,210,362,9 121,166,177,222,0 87,56,129,98,5 223,11,335,123,8 237,159,349,271,9 331,317,415,401,3
+./data/dataset/test/000174.jpg 143,128,199,184,4 54,0,110,56,3 208,168,264,224,8 355,198,383,226,2 308,342,336,370,3
+./data/dataset/test/000175.jpg 306,39,328,61,3 2,251,24,273,8 159,305,173,319,9 200,189,256,245,6 292,252,348,308,0 81,204,137,260,2 56,348,98,390,4 50,274,92,316,9 6,7,48,49,7 274,83,386,195,9
+./data/dataset/test/000176.jpg 276,243,290,257,0 67,111,95,139,4 330,222,358,250,1 40,48,82,90,5 59,199,87,227,0 111,116,167,172,8 42,282,84,324,6 73,320,157,404,4
+./data/dataset/test/000177.jpg 325,349,347,371,9 357,119,371,133,7 155,348,183,376,9 197,366,225,394,2 284,155,340,211,6 154,306,182,334,6 163,43,219,99,5 290,10,402,122,7 139,149,251,261,6
+./data/dataset/test/000178.jpg 274,200,296,222,2 315,358,343,386,0 188,342,216,370,4 113,181,155,223,3 127,265,169,307,5 353,56,409,112,4 34,203,118,287,4
+./data/dataset/test/000179.jpg 90,249,118,277,0 294,34,336,76,9 165,83,249,167,3 135,256,247,368,7 253,144,365,256,4
+./data/dataset/test/000180.jpg 312,143,326,157,6 74,258,96,280,7 381,92,403,114,0 322,87,364,129,9 234,52,276,94,5 217,289,329,401,9 76,122,160,206,4 202,149,314,261,0
+./data/dataset/test/000181.jpg 44,277,86,319,3 156,155,198,197,5 163,285,275,397,8
+./data/dataset/test/000182.jpg 32,26,54,48,0 348,95,362,109,3 306,176,320,190,6 175,247,231,303,8 270,170,382,282,5
+./data/dataset/test/000183.jpg 270,386,292,408,7 62,211,84,233,2 10,35,38,63,1 117,63,159,105,0 225,259,309,343,7
+./data/dataset/test/000184.jpg 106,364,120,378,9 165,10,179,24,3 285,46,313,74,5 302,254,344,296,0 48,173,132,257,8
+./data/dataset/test/000185.jpg 306,355,328,377,0 88,149,102,163,2 359,163,415,219,0 208,24,264,80,0 74,333,102,361,7 325,196,353,224,8 304,125,346,167,2 188,167,300,279,9 3,164,87,248,1
+./data/dataset/test/000186.jpg 287,156,301,170,9 285,242,299,256,5 234,212,262,240,9 42,294,154,406,6
+./data/dataset/test/000187.jpg 15,392,37,414,6 329,62,343,76,8 342,151,370,179,5 81,293,123,335,9 284,331,340,387,2 258,200,286,228,9 187,358,215,386,9 177,20,205,48,3 82,74,166,158,7
+./data/dataset/test/000188.jpg 298,140,312,154,1 19,147,41,169,4 384,267,406,289,6 104,99,160,155,0 271,191,299,219,0 217,345,245,373,2 237,77,279,119,1 90,255,118,283,4
+./data/dataset/test/000189.jpg 145,246,167,268,6 255,230,283,258,1 11,119,123,231,3
+./data/dataset/test/000190.jpg 73,269,101,297,4 181,87,223,129,1
+./data/dataset/test/000191.jpg 192,308,214,330,1 397,374,411,388,5 282,385,304,407,2 130,180,172,222,2 359,269,415,325,2 352,342,394,384,2
+./data/dataset/test/000192.jpg 126,151,210,235,9
+./data/dataset/test/000193.jpg 368,112,390,134,2 18,36,60,78,6 290,53,332,95,3 44,96,128,180,9 217,165,301,249,9
+./data/dataset/test/000194.jpg 77,237,91,251,9 172,250,194,272,7 242,230,264,252,9 29,347,85,403,4 56,103,98,145,1 259,125,301,167,1 368,135,396,163,0
+./data/dataset/test/000195.jpg 135,145,157,167,6 80,145,102,167,0 270,237,326,293,8 43,30,71,58,3 21,247,133,359,6 244,125,328,209,0 295,295,379,379,0
+./data/dataset/test/000196.jpg 2,137,16,151,7 234,114,256,136,3 115,342,157,384,4 31,175,59,203,1 112,247,140,275,0
+./data/dataset/test/000197.jpg 164,132,220,188,2 217,39,259,81,0 243,295,327,379,9 162,317,246,401,0 4,199,116,311,0
+./data/dataset/test/000198.jpg 304,344,318,358,7 35,238,49,252,4 32,82,54,104,6 34,277,76,319,5 329,242,413,326,7
+./data/dataset/test/000199.jpg 196,278,224,306,8 272,328,314,370,5 173,386,201,414,7 207,339,263,395,5 37,80,79,122,0 119,317,161,359,2 250,91,334,175,3 87,110,171,194,7 17,219,129,331,5
+./data/dataset/test/000200.jpg 376,283,390,297,5 159,241,173,255,1 39,108,61,130,4 181,48,265,132,2
