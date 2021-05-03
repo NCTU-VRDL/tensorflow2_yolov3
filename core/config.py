@@ -33,7 +33,7 @@ __C.YOLO.IOU_LOSS_THRESH      = 0.5
 __C.TRAIN                     = edict()
 
 __C.TRAIN.ANNOT_PATH          = "./data/dataset/yymnist_train.txt"
-__C.TRAIN.BATCH_SIZE          = 4
+__C.TRAIN.BATCH_SIZE          = 6
 __C.TRAIN.INPUT_SIZE          = [416]
 __C.TRAIN.DATA_AUG            = True
 __C.TRAIN.LR_INIT             = 1e-3

@@ -60,10 +60,11 @@ def train_step(image_data, target):
 
         gradients = tape.gradient(total_loss, model.trainable_variables)
         optimizer.apply_gradients(zip(gradients, model.trainable_variables))
-        tf.print("=> STEP %4d   lr: %.6f   giou_loss: %4.2f   conf_loss: %4.2f   "
-                 "prob_loss: %4.2f   total_loss: %4.2f" %(global_steps, optimizer.lr.numpy(),
-                                                          giou_loss, conf_loss,
-                                                          prob_loss, total_loss))
+        if global_steps.numpy() % 100 == 0:
+            tf.print("=> STEP %4d   lr: %.6f   giou_loss: %4.2f   conf_loss: %4.2f   "
+                     "prob_loss: %4.2f   total_loss: %4.2f" %(global_steps, optimizer.lr.numpy(),
+                                                              giou_loss, conf_loss,
+                                                              prob_loss, total_loss))
         # update learning rate
         global_steps.assign_add(1)
         if global_steps < warmup_steps:
@@ -85,7 +86,8 @@ def train_step(image_data, target):
 
 
 for epoch in range(cfg.TRAIN.EPOCHS):
+    print("Epochs:", epoch)    
     for image_data, target in trainset:
         train_step(image_data, target)
-    model.save_weights("./yolov3")
+    model.save_weights(logdir + "/yolov3")
 

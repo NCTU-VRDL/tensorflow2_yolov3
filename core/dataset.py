@@ -155,7 +155,7 @@ class Dataset(object):
         return image, bboxes
 
     def parse_annotation(self, annotation):
-        """we take (x_min, y_min, x_max, y_max) as input boxes"""
+
         line = annotation.split()
         image_path = line[0]
         if not os.path.exists(image_path):
