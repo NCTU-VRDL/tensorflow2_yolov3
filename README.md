@@ -16,7 +16,7 @@ $ wget https://pjreddie.com/media/files/yolov3.weights
 In this part, we will practice how to compute the average precision of our model.
 ```
 cd exercise1
-python pascal_voc.py -t 0.3
+python pascalvoc.py -t 0.3
 ```
 
 
